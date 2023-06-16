@@ -1,11 +1,12 @@
 ---
-title: YUANYUAN YAO
-role: Professor of Artificial Intelligence
+title: 姚媛媛（Yoyo YAO）
+role: PhD in Time Series
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Time Series，Artificial Intelligence
+  - Big Data
   - Information Retrieval
 social:
   - icon: envelope
@@ -30,19 +31,19 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Zhejiang University
+    url: https://www.zju.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Time Series
+      institution: Zhejiang University
+      year: ""
+    - course: MSc in Big Data
+      institution: University of Chinese Academy of Sciences
+      year: 2021
+    - course: BEng in Software Engineering
+      institution: Nanjing Xiaozhuang University
+      year: 2018
 superuser: true
 status:
   icon: ☕️
@@ -51,6 +52,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Yoyo YAO is a dedicated researcher currently pursuing a Ph.D. in Time Series at Zhejiang University's Daily Lab. With a focus on time series analysis, Yao is passionate about unraveling the intricacies of temporal data. Stay tuned for exciting insights from Yao's research journey
