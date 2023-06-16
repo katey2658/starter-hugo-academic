@@ -5,7 +5,8 @@ avatar_filename: 微信图片_20230616214227.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Time Series，Artificial Intelligence
+  - Time Series
+  - Artificial Intelligence
   - Big Data
   - Information Retrieval
 social:
