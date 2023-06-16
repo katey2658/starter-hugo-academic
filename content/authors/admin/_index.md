@@ -1,5 +1,5 @@
 ---
-title: 姚媛媛（Yoyo YAO）
+title: 姚媛媛（Yuanyuan Yao）
 role: PhD in Time Series
 avatar_filename: avator.png
 bio: My research interests include distributed robotics, mobile computing and
@@ -10,27 +10,9 @@ interests:
   - Big Data
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: ai
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/yoyo185644
 organizations:
   - name: Zhejiang University
     url: https://www.zju.edu.cn/
@@ -45,12 +27,12 @@ education:
     - course: BEng in Software Engineering
       institution: Nanjing Xiaozhuang University
       year: 2018
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: yoyoyao@zju.edu.cn
 ---
-Yoyo YAO is a dedicated researcher currently pursuing a Ph.D. in Time Series at Zhejiang University's Daily Lab. With a focus on time series analysis, Yao is passionate about unraveling the intricacies of temporal data. Stay tuned for exciting insights from Yao's research journey
+ Yuanyuan Yao is a dedicated researcher currently pursuing a Ph.D. in Time Series at Zhejiang University's Daily Lab. With a focus on time series analysis, Yao is passionate about unraveling the intricacies of temporal data. Stay tuned for exciting insights from Yao's research journey.
