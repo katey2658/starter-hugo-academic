@@ -1,7 +1,7 @@
 ---
 title: 姚媛媛（Yoyo YAO）
 role: PhD in Time Series
-avatar_filename: 微信图片_20230616214227.jpg
+avatar_filename: avator.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
